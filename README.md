@@ -12,7 +12,7 @@ Vilma Mäkinen
 
 ![screenshot](https://cdn.discordapp.com/attachments/885147039376244767/971491680580698124/hangman_loser.png)
 
-# **Tech/framework used**
+# **Tech / Framework used**
 
 Python
 
