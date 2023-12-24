@@ -12,16 +12,16 @@ Vilma Mäkinen
 
 ![screenshot](https://cdn.discordapp.com/attachments/885147039376244767/971491680580698124/hangman_loser.png)
 
-# **Tech / Framework used**
+# **Tech / Framework Used**
 
 Python
 
-# **Python installation**
+# **Python Installation**
 
 1. Windows: https://bit.ly/3MR2X1z
 2. Mac: https://bit.ly/3LRJoGC
 3. Linux: https://bit.ly/3KU9fwk
 
-# **How to run the app**
+# **How to Run the App**
 
 python hangman.py
