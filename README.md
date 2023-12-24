@@ -1,6 +1,6 @@
 ![logo](https://cdn.discordapp.com/attachments/885147039376244767/971490409689780304/hangman_logo.png)
 
-# **ASCII Hangman game (Spring 2022)**
+# **ASCII Hangman Game (Spring 2022)**
 
 Made Python Hangman game for a school project. I have never used Python before this.
 
