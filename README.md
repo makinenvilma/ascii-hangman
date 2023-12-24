@@ -2,7 +2,7 @@
 
 # **ASCII Hangman Game (Spring 2022)**
 
-Made Python Hangman game for a school project. I have never used Python before this. The words and the high scores are saved in a text file.
+Made Python Hangman game for a school project. I have never used Python before this. The words and the high scores are saved in text files.
 
 # **Author**
 
