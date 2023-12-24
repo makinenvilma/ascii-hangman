@@ -1,0 +1,8 @@
+viistokuja,10,pena
+viistokuja,53,taina
+viistokuja,9,pentti
+tupapokaali,6,taneli
+puuskupuh,6,anneli
+puuskupuh,6,marjatta
+norriska,7,martti
+norriska,6,tauno
