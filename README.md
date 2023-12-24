@@ -2,11 +2,11 @@
 
 # **ASCII Hangman game**
 
-Made Python Hangman game for a school project. I have never used Python before.
+Made Python Hangman game for a school project. I have never used Python before this.
 
 # **Author**
 
-Vilma Mäkinen
+Vilma Mäkinen (2022)
 
 # **Screenshots**
 
