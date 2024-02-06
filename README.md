@@ -18,9 +18,9 @@ Python
 
 # **Python Installation**
 
-Windows: https://bit.ly/3MR2X1z
-Mac: https://bit.ly/3LRJoGC
-Linux: https://bit.ly/3KU9fwk
++ Windows: https://bit.ly/3MR2X1z
++ Mac: https://bit.ly/3LRJoGC
++ Linux: https://bit.ly/3KU9fwk
 
 # **How to Run the App**
 
